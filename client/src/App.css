@@ -1,0 +1,11 @@
+.MuiCheckbox-root .MuiSvgIcon-root {
+  fill: white;
+}
+
+.MuiFormControlLabel-root .MuiFormControlLabel-label {
+  font-weight: 300;
+}
+
+.react-toast-container {
+  width: auto !important;
+}

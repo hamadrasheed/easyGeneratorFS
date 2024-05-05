@@ -1,0 +1,30 @@
+button.button {
+  text-transform: unset;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 8px;
+  box-shadow: none;
+  outline: none;
+  border-radius: 4px;
+}
+
+button.button.sizeLarge {
+  height: 40px;
+}
+
+button.button:hover, button.button:active, button.button:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+.button.buttonPrimary {
+  background-color: #7954E4;
+  color: white;
+}
+
+.button.button.buttonPrimary:hover {
+  background-color: #7954E4;
+  color: white;
+  opacity: 0.8;
+}

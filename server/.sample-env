@@ -1,0 +1,3 @@
+PORT=4000
+DATABASE_NAME='easyGenerator'
+JWT_SECRET_KEY='ekSlbXr7HH7TdPpEbgfV0yoxpvoKHfy'
